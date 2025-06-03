@@ -53,5 +53,7 @@ To defend against it, users should avoid predictable or common passwords.
 **8. Summarized how password complexity affects security.**
 
 Password complexity, which refers to the difficulty in guessing or cracking a password, directly impacts security. 
+
 More complex passwords, characterized by length, variety of characters (uppercase, lowercase, numbers, symbols), and unpredictability, are significantly harder to crack using brute force or dictionary attacks. 
+
 This increased difficulty translates to better security, making it more challenging for unauthorized individuals to access accounts and data.

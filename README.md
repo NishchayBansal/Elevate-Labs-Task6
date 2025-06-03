@@ -5,6 +5,7 @@
 **1. Created multiple passwords with varying complexity.**
 
 **2. Used uppercase, lowercase, numbers, symbols, and length variations.**
+
 a) elevatelabsinternship
 
 b) elevateLabs123456
@@ -15,7 +16,7 @@ d) ElevateLabs*##&123456
 
 **3. Tested each password on password strength checker.**
 
-![image](https://github.com/user-attachments/assets/3943b66b-a4e8-4686-8b2f-bd7dd7500670)
+![image](https://github.com/user-attachments/assets/12af136c-7440-4509-87f9-8a86e977875e)
 
 **4. Note scores and feedback from the tool.**
 
@@ -37,13 +38,13 @@ d) ElevateLabs*##&123456
 
 **7. Research common password attacks (brute force, dictionary).**
 
-🔐 Brute Force Attack
+🔐 Brute Force Attack:
 This attack tries all possible combinations of characters until the correct password is found.
 It is time-consuming and computationally intensive but guarantees success eventually.
 Brute force tools can automate the process and target weak passwords easily.
 Using complex passwords and account lockout mechanisms helps prevent it.
 
-📖 Dictionary Attack
+📖 Dictionary Attack:
 It uses a predefined list of likely passwords (dictionary) to guess the correct one.
 The attack relies on users choosing common or simple passwords found in the list.
 It is faster than brute force but limited to the words in the dictionary.

@@ -3,10 +3,14 @@
 **Task 6 : Create a Strong Password and Evaluate Its Strength**
 
 **1. Created multiple passwords with varying complexity.**
+
 **2. Used uppercase, lowercase, numbers, symbols, and length variations.**
 a) elevatelabsinternship
+
 b) elevateLabs123456
+
 c) ElevateLabs123456
+
 d) ElevateLabs*##&123456
 
 **3. Tested each password on password strength checker.**
@@ -20,6 +24,7 @@ d) ElevateLabs*##&123456
 ![image](https://github.com/user-attachments/assets/4d480c43-4184-4741-a735-dcf817e1012a)
 
 **5. Identify best practices for creating strong passwords.**
+
 **6. Write down tips learned from the evaluation.**
 
 1. Use a password that is at least 12 characters long.
@@ -46,4 +51,6 @@ To defend against it, users should avoid predictable or common passwords.
 
 **8. Summarized how password complexity affects security.**
 
-Password complexity, which refers to the difficulty in guessing or cracking a password, directly impacts security. More complex passwords, characterized by length, variety of characters (uppercase, lowercase, numbers, symbols), and unpredictability, are significantly harder to crack using brute force or dictionary attacks. This increased difficulty translates to better security, making it more challenging for unauthorized individuals to access accounts and data.
+Password complexity, which refers to the difficulty in guessing or cracking a password, directly impacts security. 
+More complex passwords, characterized by length, variety of characters (uppercase, lowercase, numbers, symbols), and unpredictability, are significantly harder to crack using brute force or dictionary attacks. 
+This increased difficulty translates to better security, making it more challenging for unauthorized individuals to access accounts and data.
